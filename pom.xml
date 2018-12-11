@@ -105,7 +105,7 @@
 				<configuration>
 					<url>http://localhost:8080/manager/text</url>
 					<server>TomcatServer</server>
-					<path>/seven</path>
+					<path>/Seven</path>
 				</configuration>
 			</plugin>
 		</plugins>
